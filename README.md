@@ -1,5 +1,5 @@
 # meta
-A Meta Repository for General Monero Project Matters
+A meta repository for general Gridcoin Community Hangout matters.
 
-Current Maintainer: luigi1111
-I will merge most any useful, not-extremely-stupid pull request. Subject to change. Have at it.
+Current Maintainer: @fkinglag
+"I will merge most any useful, not-extremely-stupid pull request. Subject to change. Have at it."
