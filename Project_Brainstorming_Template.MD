@@ -1,11 +1,7 @@
-<center>
-[![BOINC and Gridcoin](https://i.imgur.com/94ptWU0.png "BOINC and Gridcoin")](https://www.gridcoin.us "BOINC and Gridcoin")
-</center>
-
 # What is BOINC?
 [BOINC](https://boinc.berkeley.edu/) is an [open-source](https://github.com/BOINC/boinc/) volunteer oriented distributed computing grid. It's free, and harnesses the unused clock cycles from processors and graphics cards to attempt to cure cancer/aids/ebola/malaria, map the milkyway, fold proteins, search for extraterrestrial life, etc.
 
-Currently, there are approx ***580,000*** active BOINC users & more than ***4 million*** registered accounts. There's ***serious*** computing power being untapped at the moment.
+Currently, there are approx ***1,000,000*** active BOINC users & more than [***4.6 million***](https://boincstats.com/en) registered accounts. There's ***serious*** computing power being untapped at the moment.
 
 ### What are some examples of existing BOINC projects?
 * [World Community Grid](http://www.worldcommunitygrid.org/) : Attempting to solve Cancer, Ebola, Malaria, Zika, etc.
@@ -17,8 +13,6 @@ Currently, there are approx ***580,000*** active BOINC users & more than ***4 mi
 
 ### How does Gridcoin benefit BOINC?
 The Gridcoin network rewards BOINC volunteers on behalf of the whitelisted BOINC projects. As a result, more computation is pointed at their projects without costing the BOINC project admins a penny.
-
-By comparison, a BOINC project admin would have to fork out serious cash to get an equal level of computing power out of [Maidsafe](https://maidsafe.net/)/[Golem](http://golemproject.net/)/etc.
 
 ### Who can make a BOINC project?
 Anyone can create a BOINC project, there's no centralised authority that you are required to consult before creating a BOINC project.
@@ -60,7 +54,7 @@ Further research&development is required to decentralize the BOINC web server st
 * [Increasing GP Computing Power for Free via Desktop GRID Computing and Virtualization](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4912963&queryText=boinc&pageNumber=2&newsearch=true)
 * [[PDF] Cost-Benefit Analysis of Cloud Computing versus Desktop Grids](http://mescal.imag.fr/membres/derrick.kondo/pubs/kondo_hcw09.pdf)
 
-#### TL;DR: (Note - 7 year old statistics!)
+#### TL;DR: (Note: old statistics!)
   * In the best-case scenario, hosts register at a rate of 124 cloud nodes per day.
   * The ratio of volunteer nodes needed to achieve the compute power of a small EC2 instance is about 2.83 active volunteer hosts to 1.
   * Effectively, with a commercial BOINC project, there exists the opportunity to create a cloud computing service without actually owning/providing the computing capabilities yourself. Imagine creating Azure at a fraction of the cost..
@@ -70,12 +64,12 @@ Further research&development is required to decentralize the BOINC web server st
 
 ### Got an idea for a BOINC project?
 
-Do you have an idea for a potential BOINC project, or do you have questions about either BOINC or Gridcoin? Reply below! You ***don't*** need to have the skills to implement the project, we want to hear all ideas! :)
+Do you have an idea for a potential BOINC project, or do you have questions about either BOINC or Gridcoin? Feel free to ask! You ***don't*** need to have the skills to implement the project, we want to hear all ideas.
 
-I'll repost your ideas each month afterwards to immortalize the idea until it is created! ;D
+"I'll repost your ideas each month afterwards to immortalize the idea until it is created! ;D
 
 Best regards,
-CM.
+CM."
 
 ------------
 
@@ -84,11 +78,13 @@ Due to complexities in Steemit's reward mechanism, there is a 30 day maximum win
 
 In order to continuously brainstorm possible BOINC projects this thread will be reposted every 30 days.
 
-#### Past threads
+### Acknowledgement & Credits:
+
+#### Credit goes to Erkan Yilmaz for writing done in this document, and the antiquated source can be found here:
+
+https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes
+
+#### CM's past steemit posts about brainstorming that are used to make this template:
 [#002](https://steemit.com/gridcoin/@cm-steem/brainstorming-new-boinc-projects)
 [#001](https://steemit.com/gridcoin/@cm-steem/brainstorming-new-boinc-projects-anyone-can-create-a-project-and-reward-their-users-with-gridcoin)
 ------------
-
-<center>
-[![Gridcoin banner](https://i.imgur.com/pwXnVnH.jpg "Gridcoin banner")](https://www.gridcoin.us "Gridcoin banner")
-</center>
